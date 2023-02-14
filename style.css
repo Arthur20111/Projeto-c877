@@ -1,0 +1,16 @@
+#fundo{
+    background-image: url(fundo.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color:black
+    font-size:   25px;
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: purple;
+    border-radius: 15;
+}
